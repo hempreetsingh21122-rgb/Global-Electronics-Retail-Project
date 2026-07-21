@@ -115,13 +115,13 @@ The objective of this project is to answer key business questions, including:
 
 ### Top Contributors Analysis
 
-- 👥 [Customer Analysis Dashboard](Top_Contrubutors_Dasboard.png)
+- 👥 [Top Contributors Dashboard](Top_Contrubutors_Dasboard.png)
 
 ---
 
 ### Opportunities Analysis
 
-![Product & Store Analysis](images/product_store_analysis.png)
+- 🎯 [Opportunity Dashboard](Opportunity_Dashboard.png)
 
 
 ## 💡 Key Business Insights
