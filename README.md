@@ -109,7 +109,7 @@ The objective of this project is to answer key business questions, including:
 
 ### Overall Performance Dashboard
 
- <img src="Overall_Performance_Dashbaord.png" width="400">
+- 📊 [Overall Performance Dashboard](Overall_Performance_Dashboard.png)
 
 ---
 
