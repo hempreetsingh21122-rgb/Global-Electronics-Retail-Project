@@ -204,5 +204,5 @@ README.md
 
 Hempreet Singh
 
-LinkedIn: https://www.linkedin.com/in/hempreet-singh-8543b4247/
-GitHub:
+## LinkedIn: https://www.linkedin.com/in/hempreet-singh-8543b4247/
+## GitHub:
