@@ -51,6 +51,18 @@ Before analysis, the dataset was prepared by:
 | Python | Data transformation and preprocessing |
 | Microsoft Excel | Initial data exploration and validation |
 
+## 🚀 Skills Demonstrated
+
+- SQL Joins
+- CTEs
+- Window Functions
+- Aggregate Functions
+- Data Cleaning
+- Data Validation
+- Power BI Dashboarding
+- Business Analysis
+
+
 ## 📋 Business Requirements
 
 The objective of this project is to answer key business questions, including:
@@ -185,17 +197,6 @@ README.md
 ```
 
 ---
-
-## 🚀 Skills Demonstrated
-
-- SQL Joins
-- CTEs
-- Window Functions
-- Aggregate Functions
-- Data Cleaning
-- Data Validation
-- Power BI Dashboarding
-- Business Analysis
 
 ---
 
