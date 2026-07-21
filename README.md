@@ -115,7 +115,7 @@ The objective of this project is to answer key business questions, including:
 
 ### Top Contributors Analysis
 
-- 👥 [Customer Analysis Dashboard](Top_Contributors_Dashboard.png)
+- 👥 [Customer Analysis Dashboard](Top_Contrubutors_Dasboard.png)
 
 ---
 
