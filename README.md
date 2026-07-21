@@ -123,6 +123,19 @@ The objective of this project is to answer key business questions, including:
 
 - 🎯 [Opportunity Dashboard](Opportunity_Dashboard.png)
 
+### 📊 Dashboard Features
+
+- Interactive slicers
+- Drill-through
+- Tooltips
+- Dynamic KPIs
+- Responsive visuals
+
+### ⚠️ Dataset Limitations
+
+- Dataset ends in 2020.
+- Customer acquisition source not available.
+- Revenue decline root cause cannot be confirmed from available data.
 
 ## 💡 Key Business Insights
 
